@@ -14,8 +14,8 @@ git [comandos] help
 ```
 Configura el email y usuario, solo se hace una vez cuando se instala git
 
-git config --global user.email elliotgaramendi@gmail.com
-git config --global user.name ElliotXLeo
+git config --global user.email alexblamarket@gmail.com
+git config --global user.name alejandro2366
 ```
 
 ```
