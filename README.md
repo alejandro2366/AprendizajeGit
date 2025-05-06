@@ -139,7 +139,7 @@ git show nombreTag
 ```
 Vincular repositorio remoto con repositorio de origen local y subir archivos del repositorio origen local de la rama master
 
-git remote add origin https://github.com/ElliotXLeo/AprendizajeGit.git
+git remote add origin https://github.com/alejandro2366/AprendizajeGit.git
 git push -u origin master
 
 Al ejecutar estas líneas de comando te pedirá el usuario y contraseña de tu cuenta de github.
@@ -184,7 +184,7 @@ git fetch
 ```
 Cuando un nuevo desarrollador se incorpora al equipo debe tener una copia del código y trabajarlo de forma loca. Para descargar un repositorio completo basta con tomar la url y ejecutar el siguiente comando en alguna carpeta de su computadora.
 
-git clone https://github.com/ElliotXLeo/AprendizajeGit.git
+git clone https://github.com/alejandro2366/AprendizajeGit.git
 ```
 
 ```
